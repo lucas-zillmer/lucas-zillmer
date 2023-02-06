@@ -59,9 +59,8 @@
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) -->
 ### ⚡ GitHub Stats
 
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lucas-zillmer&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&theme=radical"/></div>
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=lucas_zillmer&show_icons=true&theme=radical&layout=compact" alt="Github wakatime status" /></div>
-<a href="https://wakatime.com/@402109a7-3438-4105-b9a3-e7d2e7838e7f"><img src="https://wakatime.com/badge/user/402109a7-3438-4105-b9a3-e7d2e7838e7f.svg" alt="Total time coded since Dec 8 2022" /></a>
+<!-- <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lucas-zillmer&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&theme=radical"/></div>
+<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=lucas_zillmer&show_icons=true&theme=radical&layout=compact" alt="Github wakatime status" /></div> -->
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=213lygcrvcjoztzmram7qokhq&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>
  
 
