@@ -59,7 +59,7 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) -->
-### ⚡ GitHub Stats
+<!-- ### ⚡ GitHub Stats -->
 
 <!-- <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lucas-zillmer&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&theme=radical"/></div>
 <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=lucas_zillmer&show_icons=true&theme=radical&layout=compact" alt="Github wakatime status" /></div> -->
