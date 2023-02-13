@@ -61,7 +61,7 @@
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) -->
 <!-- ### ⚡ GitHub Stats -->
-<!-- :rocket: I'm currently working at [![imagem](https://user-images.githubusercontent.com/91758475/205046944-1171ba77-518e-4a9b-8e10-9a9faeede521.png)](https://bitzsoftwares.com.br/)--!>
+<!-- :rocket: I'm currently working at [![imagem](https://user-images.githubusercontent.com/91758475/205046944-1171ba77-518e-4a9b-8e10-9a9faeede521.png)](https://bitzsoftwares.com.br/)-->
 
 [![wakatime](https://wakatime.com/badge/user/402109a7-3438-4105-b9a3-e7d2e7838e7f.svg)](https://wakatime.com/@402109a7-3438-4105-b9a3-e7d2e7838e7f)
 
